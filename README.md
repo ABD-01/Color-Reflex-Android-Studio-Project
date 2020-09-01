@@ -1,5 +1,5 @@
 # Color-Reflex-Android-Studio-Project
 An android game to check your speed to recognize colors and read coloured texts.
 
-![Type1](https://user-images.githubusercontent.com/63636498/91881477-2a308700-ec9f-11ea-85df-b1fdb2c50d6d.gif)
-![Type2](https://user-images.githubusercontent.com/63636498/91881495-33b9ef00-ec9f-11ea-85ca-03763349104e.gif)
+![Type-1](https://user-images.githubusercontent.com/63636498/91882240-4ed92e80-eca0-11ea-83b6-8a2a1d58f0f3.png)
+![image](https://user-images.githubusercontent.com/63636498/91882331-6b756680-eca0-11ea-87ee-f830512a83e5.png)
