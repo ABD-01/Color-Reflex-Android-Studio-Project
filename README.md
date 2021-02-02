@@ -1,6 +1,8 @@
 # Color-Reflex-Android-Studio-Project
 An android game to check your speed to recognize colors and read coloured texts.
 
+Click [here](https://github.com/ABD-01/Color-Reflex-Android-Studio-Project/raw/master/ColorReflexer.apk) to download the app.
+
 ### Type - 1
 ![Type-1](https://user-images.githubusercontent.com/63636498/91882240-4ed92e80-eca0-11ea-83b6-8a2a1d58f0f3.png)
 ### Type - 2
