@@ -9,4 +9,4 @@ Click [here](https://github.com/ABD-01/Color-Reflex-Android-Studio-Project/raw/m
 ### Type - 2
 <img src="https://github.com/ABD-01/Color-Reflex-Android-Studio-Project/blob/master/gifs/Color-Reflexer-2.gif" alt="Type-1" height="512">
 
-See my Android [Notes](https://github.com/ABD-01/Android_TCP_Client_Application/blob/master/Notes.md)
+See my Android-Dev [Notes](https://hackmd.io/@ABD/SylcS64Xv)
